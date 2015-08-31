@@ -11,7 +11,7 @@ Swift call Objective-C<br>
     
 Objective-C all Swift<br>
 
-	Code: 
+	 
 	SwiftObject *obj = [[SwiftObject alloc] init];
     [obj say];
     
