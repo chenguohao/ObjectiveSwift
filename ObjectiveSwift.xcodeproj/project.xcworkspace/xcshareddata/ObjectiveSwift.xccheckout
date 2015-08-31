@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DDC4E827-A20D-4A37-B06D-2626C9962A58</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ObjectiveSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B3AF682CF05B2478AD8319DC507B0CE1DE5C1A25</key>
+		<string>https://github.com/chenguohao/ObjectiveSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ObjectiveSwift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B3AF682CF05B2478AD8319DC507B0CE1DE5C1A25</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chenguohao/ObjectiveSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3AF682CF05B2478AD8319DC507B0CE1DE5C1A25</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3AF682CF05B2478AD8319DC507B0CE1DE5C1A25</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ObjectiveSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
